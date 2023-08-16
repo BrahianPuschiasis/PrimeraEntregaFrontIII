@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 
 import React from "react";
-import "./App.css"; // Asegúrate de importar los estilos CSS aquí
+import "../App.css"; // Asegúrate de importar los estilos CSS aquí
 
 function Card(props) {
   return (

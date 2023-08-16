@@ -1,6 +1,8 @@
+/* eslint-disable no-unused-vars */
+
 import React, { useState } from "react";
-import Card from "./Card";
-import Form from "./Form";
+import Card from "./components/Card";
+import Form from "./components/Form";
 import "./App.css";
 
 function App() {

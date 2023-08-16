@@ -1,5 +1,7 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 
+// eslint-disable-next-line react/prop-types
 function Form({ onSubmit }) {
   const [nombre, setNombre] = useState("");
   const [animeFavorito, setAnimeFavorito] = useState("");
